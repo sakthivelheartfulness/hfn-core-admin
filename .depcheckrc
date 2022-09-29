@@ -1,0 +1,1 @@
+ignores: ["eslint", "babel-*", "webpack-*", "*-loader", "@babel/runtime", "@types/react", "typescript", "eslint-plugin-*", "@storybook/*"]
